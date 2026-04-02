@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Eighteen Color",
+  "base_artist": "KOBASOLO",
+  "createdAt": "2026-04-02T04:23:15.785236Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eighteen Color (feat. Kopi)",
+      "artist": "kobasolo feat. kopi",
+      "has_synced": true,
+      "path": "select/01_Eighteen_Color_(feat._Kopi)_kobasolo_feat._kopi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Eighteen Color(feat. こぴ)",
+      "artist": "Kobasolo (コバソロ)/こぴ",
+      "has_synced": true,
+      "path": "select/02_Eighteen_Color(feat._こぴ)_Kobasolo_(コバソロ)_こぴ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Eighteen Color (feat. Kopi)",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/03_Eighteen_Color_(feat._Kopi)_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eighteen Color",
+      "artist": "KOBASOLO",
+      "has_synced": true,
+      "path": "select/04_Eighteen_Color_KOBASOLO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eighteen Color (feat. こぴ)",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/05_Eighteen_Color_(feat._こぴ)_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Eighteen Color (feat. Kopi)",
+      "artist": "kobasolo, kopi",
+      "has_synced": true,
+      "path": "select/06_Eighteen_Color_(feat._Kopi)_kobasolo,_kopi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Eighteen Color (feat. こぴ)",
+      "artist": "KOBASOLO, Kopi",
+      "has_synced": true,
+      "path": "select/07_Eighteen_Color_(feat._こぴ)_KOBASOLO,_Kopi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Eighteen Color (feat. こぴ)",
+      "artist": "KOBASOLO",
+      "has_synced": false,
+      "path": "select/pl_01_Eighteen_Color_(feat._こぴ)_KOBASOLO.txt"
+    }
+  ]
+}
